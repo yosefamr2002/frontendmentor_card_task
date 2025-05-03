@@ -115,6 +115,15 @@ hr{
 @media (max-width:400px){
     .card{
         width: 75%;
-        height: 90vh;
+    }
+}
+@media (max-height:700px){
+    .card{
+        width: 80%;
+    }
+}
+@media (max-width:850px){
+    .card{
+        width: 75%;
     }
 }
