@@ -89,7 +89,7 @@ hr{
     color: #87a7d6;
 }
 
-@media (max-width:1000px){
+@media (max-width:600px){
     .icons {
         margin: auto;
         display: flex;
@@ -110,5 +110,6 @@ hr{
         color: #dce8e6;
     }.card.text{
         width: 100%;
-    }.card{width: 80%;}
+    }
+    /* .card{width: 70%;} */
 }
