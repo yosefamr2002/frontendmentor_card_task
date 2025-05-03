@@ -110,5 +110,5 @@ hr{
         color: #dce8e6;
     }.card.text{
         width: 100%;
-    }
+    }.card{width: 80%;}
 }
